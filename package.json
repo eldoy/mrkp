@@ -1,5 +1,5 @@
 {
-  "name": "html",
+  "name": "mrkp",
   "version": "0.1.0",
   "description": "Extremely tiny HTML template function",
   "main": "index.js",
